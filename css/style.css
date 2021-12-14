@@ -20,8 +20,7 @@ div {
     
     background-image: url(../img/FONDOPORT.JPG);
     background-size: cover;
-    width: 1900px;
-    height: 1080px;
+    width: 100%;
 }
 
 
