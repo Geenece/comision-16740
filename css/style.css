@@ -67,7 +67,7 @@ nav.form {
 
 
 .galeria-grid img:hover {
-    filter: grayscale(1);
+    filter:saturate(3)
 }
 .galeria-grid img:hover {
     filter: opacity(0.1);
