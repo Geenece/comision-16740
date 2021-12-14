@@ -66,9 +66,9 @@ nav.form {
 }
 
 
-body {
-    background-color: black;
+.galeria-grid img:hover {
+    filter: grayscale(1);
 }
-
-
-
+.galeria-grid img:hover {
+    filter: opacity(0.1);
+}
