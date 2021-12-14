@@ -70,5 +70,5 @@ nav.form {
     filter:saturate(3)
 }
 .galeria-grid img:hover {
-    filter: opacity(0.1);
+    filter: opacity(10);
 }
