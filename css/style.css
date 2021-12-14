@@ -64,7 +64,9 @@ nav.form {
    
     
 }
-
+.galeria-grid {
+    display: grid;
+}
 
 .galeria-grid img:hover {
     filter:saturate(3)
